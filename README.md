@@ -41,9 +41,7 @@ other without intermediaries.
 - **Frontend:** A user-friendly interface developed using Angular, allowing users to interact with the PowerChain platform.
 - **Backend:** A Node.js server interfacing between the frontend and the blockchain, handling business logic and data processing.
 
-## Lessons Learned  
 
-What did you learn while building this project? What challenges did you face and how did you overcome t
 
 ## Run Locally  
 

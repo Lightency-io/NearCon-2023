@@ -48,35 +48,44 @@ other without intermediaries.
 Clone the project  
 
 ~~~bash  
-  git clone https://link-to-project
+    git clone https://github.com/Lightency-io/NearCon-2023.git
 ~~~
 
-Go to the project directory  
+Navigate to the frontend directory and install dependencies: 
 
 ~~~bash  
-  cd my-project
+    cd energy_management_system/Front
+    npm install
 ~~~
 
-Install dependencies  
+Start the frontend server:
 
 ~~~bash  
-npm install
+    ng serve -o -c openems-backend-dev
 ~~~
 
-Start the server  
+In a new terminal, navigate to the backend directory and install dependencies:
 
 ~~~bash  
-npm run start
+    cd energy_management_system/Backend
+    npm install
+~~~
+
+Start the backend server:
+
+~~~bash  
+    node near_matching.js
 ~~~
 
 ## Environment Variables  
 
 To run this project, you will need to add the following environment variables to your .env file  
-`API_KEY`  
-
-`ANOTHER_API_KEY` 
-
-
+`ACCOUNT_ID`  
+`KEY_PATH` 
+`INFLUXDB_URL`
+`INFLUXDB_TOKEN`
+`INFLUXDB_ORG`
+`MONGODB_URI`
 
 ## License  
 

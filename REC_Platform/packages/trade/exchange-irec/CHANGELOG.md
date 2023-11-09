@@ -1,0 +1,132 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.2.1](https://github.com/energywebfoundation/origin/compare/@energyweb/exchange-irec@1.2.0...@energyweb/exchange-irec@1.2.1) (2022-01-18)
+
+**Note:** Version bump only for package @energyweb/exchange-irec
+
+
+
+
+
+# [1.2.0](https://github.com/energywebfoundation/origin/compare/@energyweb/exchange-irec@1.0.4...@energyweb/exchange-irec@1.2.0) (2021-12-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v1.0.2 ([8bf0044](https://github.com/energywebfoundation/origin/commit/8bf0044caab0b59fd6a7f1de6be03fd55c692f8d))
+* **deps:** update dependency @nestjs/swagger to v5.1.4 ([6d704a5](https://github.com/energywebfoundation/origin/commit/6d704a56e59550e9076cbf42151045e29579ef88))
+* **deps:** update dependency chai to v4.3.4 ([4cda837](https://github.com/energywebfoundation/origin/commit/4cda8376255385f0b8dddbfbbd4652ea36f43c83))
+* **deps:** update dependency class-validator to v0.13.2 ([684367a](https://github.com/energywebfoundation/origin/commit/684367a560a8ef40fc7703aaae697c622ef2fbe6))
+* **deps:** update dependency immutable to v4.0.0 ([479ae47](https://github.com/energywebfoundation/origin/commit/479ae47676deaefb2e8d9121f0a592a3d8066f59))
+* **deps:** update dependency polly-js to v1.8.3 ([454be1d](https://github.com/energywebfoundation/origin/commit/454be1db7e1c1e62103855dbe1918ebacf981e4b))
+* **deps:** update dependency typeorm to v0.2.39 ([f872cf4](https://github.com/energywebfoundation/origin/commit/f872cf445f18e8e9686b973dbf7c36e8f08cca17))
+* **deps:** update dependency typeorm to v0.2.40 ([c13fb63](https://github.com/energywebfoundation/origin/commit/c13fb6371a005bed3c43771f073eda88020947cd))
+* **deps:** update dependency typeorm to v0.2.41 ([ea80dda](https://github.com/energywebfoundation/origin/commit/ea80dda9f029703602a50c874992ca894edf3245))
+* **exchange-irec:** fix exchange device type filtering ([4217dc1](https://github.com/energywebfoundation/origin/commit/4217dc1a229b86f213d308757f22bf3fd9f6e6e0))
+* **exchange-irec:** fix exchange device type filtering ([eca42f5](https://github.com/energywebfoundation/origin/commit/eca42f56aeeab4dac35d2e910cff48abc0dcb6b0))
+* **origin-backend:** updated typeorm and fixed issues with it ([171e7f4](https://github.com/energywebfoundation/origin/commit/171e7f48f374f74e3aec2d99d4d1762e3805d0f5))
+
+
+### Features
+
+* **exchange-irec:** added transfer certificate to irec ([eeb73cc](https://github.com/energywebfoundation/origin/commit/eeb73cc0dcf4570814580840e8d5d08ab0b68395))
+* **exchange-irec:** Export functionality ([3fa4318](https://github.com/energywebfoundation/origin/commit/3fa4318a0d3f1ec01796274de5cc1e9b20b4fad1))
+* **exchange-irec:** import module refactoring ([f9709f4](https://github.com/energywebfoundation/origin/commit/f9709f4b6306ea5d04e33dc8deee634e41296a4c))
+* **origin-organization-irec-api:** added optional trade/redemption account parameters for clam and transfer ([787c43b](https://github.com/energywebfoundation/origin/commit/787c43beda56b543f14ab6e9a9dcdb1ce79b8875))
+* **ui-packages:** update ui to use new module ([4f130a9](https://github.com/energywebfoundation/origin/commit/4f130a919a09d483aca4a28e98d5b4b9d5c2b123))
+
+
+
+
+
+# [1.1.0](https://github.com/energywebfoundation/origin/compare/@energyweb/exchange-irec@1.0.4...@energyweb/exchange-irec@1.1.0) (2021-12-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v1.0.2 ([8bf0044](https://github.com/energywebfoundation/origin/commit/8bf0044caab0b59fd6a7f1de6be03fd55c692f8d))
+* **deps:** update dependency @nestjs/swagger to v5.1.4 ([6d704a5](https://github.com/energywebfoundation/origin/commit/6d704a56e59550e9076cbf42151045e29579ef88))
+* **deps:** update dependency chai to v4.3.4 ([4cda837](https://github.com/energywebfoundation/origin/commit/4cda8376255385f0b8dddbfbbd4652ea36f43c83))
+* **deps:** update dependency class-validator to v0.13.2 ([684367a](https://github.com/energywebfoundation/origin/commit/684367a560a8ef40fc7703aaae697c622ef2fbe6))
+* **deps:** update dependency immutable to v4.0.0 ([479ae47](https://github.com/energywebfoundation/origin/commit/479ae47676deaefb2e8d9121f0a592a3d8066f59))
+* **deps:** update dependency typeorm to v0.2.39 ([f872cf4](https://github.com/energywebfoundation/origin/commit/f872cf445f18e8e9686b973dbf7c36e8f08cca17))
+* **deps:** update dependency typeorm to v0.2.40 ([c13fb63](https://github.com/energywebfoundation/origin/commit/c13fb6371a005bed3c43771f073eda88020947cd))
+* **deps:** update dependency typeorm to v0.2.41 ([ea80dda](https://github.com/energywebfoundation/origin/commit/ea80dda9f029703602a50c874992ca894edf3245))
+* **exchange-irec:** fix exchange device type filtering ([4217dc1](https://github.com/energywebfoundation/origin/commit/4217dc1a229b86f213d308757f22bf3fd9f6e6e0))
+* **exchange-irec:** fix exchange device type filtering ([eca42f5](https://github.com/energywebfoundation/origin/commit/eca42f56aeeab4dac35d2e910cff48abc0dcb6b0))
+* **origin-backend:** updated typeorm and fixed issues with it ([171e7f4](https://github.com/energywebfoundation/origin/commit/171e7f48f374f74e3aec2d99d4d1762e3805d0f5))
+
+
+### Features
+
+* **exchange-irec:** added transfer certificate to irec ([eeb73cc](https://github.com/energywebfoundation/origin/commit/eeb73cc0dcf4570814580840e8d5d08ab0b68395))
+* **exchange-irec:** Export functionality ([3fa4318](https://github.com/energywebfoundation/origin/commit/3fa4318a0d3f1ec01796274de5cc1e9b20b4fad1))
+* **exchange-irec:** import module refactoring ([f9709f4](https://github.com/energywebfoundation/origin/commit/f9709f4b6306ea5d04e33dc8deee634e41296a4c))
+* **origin-organization-irec-api:** added optional trade/redemption account parameters for clam and transfer ([787c43b](https://github.com/energywebfoundation/origin/commit/787c43beda56b543f14ab6e9a9dcdb1ce79b8875))
+* **ui-packages:** update ui to use new module ([4f130a9](https://github.com/energywebfoundation/origin/commit/4f130a919a09d483aca4a28e98d5b4b9d5c2b123))
+
+
+
+
+
+## [1.0.4](https://github.com/energywebfoundation/origin/compare/@energyweb/exchange-irec@1.0.3...@energyweb/exchange-irec@1.0.4) (2021-09-17)
+
+**Note:** Version bump only for package @energyweb/exchange-irec
+
+
+
+
+
+## [1.0.3](https://github.com/energywebfoundation/origin/compare/@energyweb/exchange-irec@1.0.2...@energyweb/exchange-irec@1.0.3) (2021-08-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v1 ([5226f56](https://github.com/energywebfoundation/origin/commit/5226f56898771fc093590bc0f337296496e945ba))
+* **deps:** update dependency @nestjs/config to v1.0.1 ([3463c6f](https://github.com/energywebfoundation/origin/commit/3463c6f197398c159e88b078a9b8581c5f450429))
+* **deps:** update dependency @nestjs/passport to v7.1.6 ([e6c99f4](https://github.com/energywebfoundation/origin/commit/e6c99f47c789a30ba3c73969854ebe956838b3be))
+* **deps:** update dependency @nestjs/swagger to v4.8.1 ([daa023b](https://github.com/energywebfoundation/origin/commit/daa023bdcd20b78aa3dd8af966c8127b57b9d9ad))
+* **deps:** update dependency @nestjs/swagger to v4.8.2 ([d17e433](https://github.com/energywebfoundation/origin/commit/d17e433f1fa2a07ea50bd26b423652670436c6ae))
+* **deps:** update dependency pg to v8.6.0 ([5b16742](https://github.com/energywebfoundation/origin/commit/5b167423919ee4b238cb022c27a89a0d920f318b))
+* **deps:** update dependency pg to v8.7.1 ([033293f](https://github.com/energywebfoundation/origin/commit/033293f0c203102f03b53fe50a519a60ebe170de))
+* **deps:** update dependency polly-js to v1.8.2 ([af8a3db](https://github.com/energywebfoundation/origin/commit/af8a3dbb75977dadc182f2f2b3595d91766f967f))
+* **deps:** update dependency rxjs to v6.6.7 ([5adc1e2](https://github.com/energywebfoundation/origin/commit/5adc1e219b360b4e3a28e037a1461f5719329cfd))
+* **deps:** update dependency typeorm to v0.2.32 ([e2f606e](https://github.com/energywebfoundation/origin/commit/e2f606ee89aec9a5db84138b8df369a0561e08b1))
+* **deps:** update dependency typeorm to v0.2.34 ([8c6f39c](https://github.com/energywebfoundation/origin/commit/8c6f39cffcce4cc3d6c3b65daa1a1a883e41aaac))
+* **deps:** update nest monorepo to v7.6.17 ([ecc84c0](https://github.com/energywebfoundation/origin/commit/ecc84c0ce3d2d2e47ebe7c667d53adbc6fdd9f6b))
+* **deps:** update nest monorepo to v7.6.18 ([6835926](https://github.com/energywebfoundation/origin/commit/6835926dff7764d275b2006084e344c37948b7fa))
+
+
+
+
+
+## [1.0.2](https://github.com/energywebfoundation/origin/compare/@energyweb/exchange-irec@1.0.1...@energyweb/exchange-irec@1.0.2) (2021-03-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/swagger to v4.7.13 ([eba5075](https://github.com/energywebfoundation/origin/commit/eba5075f1578f2ae9d382cc4a955487eaa50d3bb))
+* **deps:** update dependency @nestjs/swagger to v4.7.15 ([d58375c](https://github.com/energywebfoundation/origin/commit/d58375c74ffc3de71381e7bab7d65b5040340f6d))
+* **deps:** update dependency @nestjs/swagger to v4.7.16 ([c240c31](https://github.com/energywebfoundation/origin/commit/c240c31cba4af09d322426ef09e80e89ea561f5d))
+* **deps:** update dependency @nestjs/swagger to v4.8.0 ([f3baec9](https://github.com/energywebfoundation/origin/commit/f3baec98c786542549f87b0d5f2e8c3d425ea638))
+* **deps:** update dependency polly-js to v1.8.1 ([85e1d14](https://github.com/energywebfoundation/origin/commit/85e1d1427577c774c0af521ccfc8a04420a6c8c6))
+* **deps:** update dependency rxjs to v6.6.6 ([8cbb567](https://github.com/energywebfoundation/origin/commit/8cbb567986449af7be85aab7fde3ea0eff6d3490))
+* **deps:** update dependency typeorm to v0.2.31 ([b2d4b30](https://github.com/energywebfoundation/origin/commit/b2d4b30d90985597a1b55fb25860b5259769cffc))
+* **deps:** update nest monorepo to v7.6.12 ([bacde48](https://github.com/energywebfoundation/origin/commit/bacde48160b73749f5e476b73bbafcef55902aba))
+* **deps:** update nest monorepo to v7.6.14 ([9b0ca43](https://github.com/energywebfoundation/origin/commit/9b0ca4312c548681e752ba0e49d0a5a03350ae2e))
+
+
+
+
+
+## 1.0.1 (2021-02-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @nestjs/config to v0.6.3 ([4991dfb](https://github.com/energywebfoundation/origin/commit/4991dfb918ce7efb6d0a8bd72a011c825b3aec46))
+* **deps:** update dependency ethers to v5.0.29 ([149041b](https://github.com/energywebfoundation/origin/commit/149041b4ca3648f1decf9e1acb5f7bb5d6fd721a))
+* **deps:** update nest monorepo to v7.6.11 ([daee156](https://github.com/energywebfoundation/origin/commit/daee156b9c315c527311f0c78ffbdf4226b6785a))

@@ -1,0 +1,35 @@
+{
+  "name": "@energyweb/origin-ui-theme",
+  "version": "0.3.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energywebfoundation/origin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/energywebfoundation/origin/issues"
+  },
+  "author": "EnergyWeb DevHub GmbH; Alexander Popadyuk, alexander.popadyuk@energyweb.org",
+  "description": "Material-UI theme configuration and helper functions for styling components used for building Origin marketplace user interface",
+  "homepage": "https://github.com/energywebfoundation/origin/blob/master/packages/ui/libs/ui/theme/README.md",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "dependencies": {
+    "@energyweb/origin-ui-localization": "0.3.1",
+    "@energyweb/origin-ui-shared-state": "0.1.3",
+    "@mui/material": "5.2.6",
+    "i18next": "21.6.4",
+    "react-i18next": "11.14.3"
+  },
+  "peerDependencies": {
+    "react": "17.0.2"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/ui-theme.umd.js",
+  "module": "dist/ui-theme.esm.js",
+  "typings": "dist/index.d.ts"
+}

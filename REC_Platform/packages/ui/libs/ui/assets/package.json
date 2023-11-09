@@ -1,0 +1,33 @@
+{
+  "name": "@energyweb/origin-ui-assets",
+  "version": "0.3.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energywebfoundation/origin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/energywebfoundation/origin/issues"
+  },
+  "author": "EnergyWeb DevHub GmbH; Alexander Popadyuk, alexander.popadyuk@energyweb.org",
+  "description": "Assets library for building Origin marketplace user interface",
+  "homepage": "https://github.com/energywebfoundation/origin/blob/master/packages/ui/libs/ui/assets/README.md",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "main": "dist/ui-assets.umd.js",
+  "module": "dist/ui-assets.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@mui/material": "5.2.6",
+    "@mui/styles": "5.2.3",
+    "clsx": "1.1.1"
+  },
+  "peerDependencies": {
+    "react": "17.0.2"
+  }
+}
